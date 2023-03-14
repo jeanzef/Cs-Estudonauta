@@ -1,0 +1,8 @@
+C:\Users\jeanz\source\repos\M1A13\bin\Debug\M1A13.exe.config
+C:\Users\jeanz\source\repos\M1A13\bin\Debug\M1A13.exe
+C:\Users\jeanz\source\repos\M1A13\bin\Debug\M1A13.pdb
+C:\Users\jeanz\source\repos\M1A13\obj\Debug\M1A13.csproj.AssemblyReference.cache
+C:\Users\jeanz\source\repos\M1A13\obj\Debug\M1A13.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeanz\source\repos\M1A13\obj\Debug\M1A13.csproj.CoreCompileInputs.cache
+C:\Users\jeanz\source\repos\M1A13\obj\Debug\M1A13.exe
+C:\Users\jeanz\source\repos\M1A13\obj\Debug\M1A13.pdb

@@ -1,0 +1,8 @@
+C:\Users\jeanz\source\repos\EcercicioM01\ex3\bin\Debug\ex3.exe.config
+C:\Users\jeanz\source\repos\EcercicioM01\ex3\bin\Debug\ex3.exe
+C:\Users\jeanz\source\repos\EcercicioM01\ex3\bin\Debug\ex3.pdb
+C:\Users\jeanz\source\repos\EcercicioM01\ex3\obj\Debug\ex03.csproj.AssemblyReference.cache
+C:\Users\jeanz\source\repos\EcercicioM01\ex3\obj\Debug\ex03.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeanz\source\repos\EcercicioM01\ex3\obj\Debug\ex03.csproj.CoreCompileInputs.cache
+C:\Users\jeanz\source\repos\EcercicioM01\ex3\obj\Debug\ex3.exe
+C:\Users\jeanz\source\repos\EcercicioM01\ex3\obj\Debug\ex3.pdb

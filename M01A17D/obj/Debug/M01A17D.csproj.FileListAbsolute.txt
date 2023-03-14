@@ -1,0 +1,8 @@
+C:\Users\jeanz\source\repos\M01A17D\bin\Debug\M01A17D.exe.config
+C:\Users\jeanz\source\repos\M01A17D\bin\Debug\M01A17D.exe
+C:\Users\jeanz\source\repos\M01A17D\bin\Debug\M01A17D.pdb
+C:\Users\jeanz\source\repos\M01A17D\obj\Debug\M01A17D.csproj.AssemblyReference.cache
+C:\Users\jeanz\source\repos\M01A17D\obj\Debug\M01A17D.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeanz\source\repos\M01A17D\obj\Debug\M01A17D.csproj.CoreCompileInputs.cache
+C:\Users\jeanz\source\repos\M01A17D\obj\Debug\M01A17D.exe
+C:\Users\jeanz\source\repos\M01A17D\obj\Debug\M01A17D.pdb

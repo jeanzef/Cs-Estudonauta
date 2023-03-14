@@ -1,0 +1,8 @@
+C:\Users\jeanz\source\repos\EcercicioM01\ex05\bin\Debug\ex05.exe.config
+C:\Users\jeanz\source\repos\EcercicioM01\ex05\bin\Debug\ex05.exe
+C:\Users\jeanz\source\repos\EcercicioM01\ex05\bin\Debug\ex05.pdb
+C:\Users\jeanz\source\repos\EcercicioM01\ex05\obj\Debug\ex05.csproj.AssemblyReference.cache
+C:\Users\jeanz\source\repos\EcercicioM01\ex05\obj\Debug\ex05.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeanz\source\repos\EcercicioM01\ex05\obj\Debug\ex05.csproj.CoreCompileInputs.cache
+C:\Users\jeanz\source\repos\EcercicioM01\ex05\obj\Debug\ex05.exe
+C:\Users\jeanz\source\repos\EcercicioM01\ex05\obj\Debug\ex05.pdb

@@ -1,0 +1,11 @@
+C:\Users\jeanz\source\repos\Windowsex000\bin\Debug\Windowsex000.exe.config
+C:\Users\jeanz\source\repos\Windowsex000\bin\Debug\Windowsex000.exe
+C:\Users\jeanz\source\repos\Windowsex000\bin\Debug\Windowsex000.pdb
+C:\Users\jeanz\source\repos\Windowsex000\obj\Debug\Windowsex000.csproj.AssemblyReference.cache
+C:\Users\jeanz\source\repos\Windowsex000\obj\Debug\Windowsex000.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeanz\source\repos\Windowsex000\obj\Debug\Windowsex000.Form1.resources
+C:\Users\jeanz\source\repos\Windowsex000\obj\Debug\Windowsex000.Properties.Resources.resources
+C:\Users\jeanz\source\repos\Windowsex000\obj\Debug\Windowsex000.csproj.GenerateResource.cache
+C:\Users\jeanz\source\repos\Windowsex000\obj\Debug\Windowsex000.csproj.CoreCompileInputs.cache
+C:\Users\jeanz\source\repos\Windowsex000\obj\Debug\Windowsex000.exe
+C:\Users\jeanz\source\repos\Windowsex000\obj\Debug\Windowsex000.pdb

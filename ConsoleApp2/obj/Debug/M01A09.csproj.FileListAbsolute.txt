@@ -1,0 +1,8 @@
+C:\Users\jeanz\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\jeanz\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\jeanz\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\jeanz\source\repos\ConsoleApp2\obj\Debug\M01A09.csproj.AssemblyReference.cache
+C:\Users\jeanz\source\repos\ConsoleApp2\obj\Debug\M01A09.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeanz\source\repos\ConsoleApp2\obj\Debug\M01A09.csproj.CoreCompileInputs.cache
+C:\Users\jeanz\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\jeanz\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

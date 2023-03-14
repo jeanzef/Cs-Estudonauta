@@ -1,0 +1,11 @@
+C:\Users\jeanz\source\repos\EcercicioM01\ex04\bin\Debug\ex04.exe.config
+C:\Users\jeanz\source\repos\EcercicioM01\ex04\bin\Debug\ex04.exe
+C:\Users\jeanz\source\repos\EcercicioM01\ex04\bin\Debug\ex04.pdb
+C:\Users\jeanz\source\repos\EcercicioM01\ex04\obj\Debug\ex04.csproj.AssemblyReference.cache
+C:\Users\jeanz\source\repos\EcercicioM01\ex04\obj\Debug\ex04.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeanz\source\repos\EcercicioM01\ex04\obj\Debug\ex04.Form1.resources
+C:\Users\jeanz\source\repos\EcercicioM01\ex04\obj\Debug\ex04.Properties.Resources.resources
+C:\Users\jeanz\source\repos\EcercicioM01\ex04\obj\Debug\ex04.csproj.GenerateResource.cache
+C:\Users\jeanz\source\repos\EcercicioM01\ex04\obj\Debug\ex04.csproj.CoreCompileInputs.cache
+C:\Users\jeanz\source\repos\EcercicioM01\ex04\obj\Debug\ex04.exe
+C:\Users\jeanz\source\repos\EcercicioM01\ex04\obj\Debug\ex04.pdb

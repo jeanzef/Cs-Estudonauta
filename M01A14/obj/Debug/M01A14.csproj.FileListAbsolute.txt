@@ -1,0 +1,8 @@
+C:\Users\jeanz\source\repos\M01A14\bin\Debug\M01A14.exe.config
+C:\Users\jeanz\source\repos\M01A14\bin\Debug\M01A14.exe
+C:\Users\jeanz\source\repos\M01A14\bin\Debug\M01A14.pdb
+C:\Users\jeanz\source\repos\M01A14\obj\Debug\M01A14.csproj.AssemblyReference.cache
+C:\Users\jeanz\source\repos\M01A14\obj\Debug\M01A14.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeanz\source\repos\M01A14\obj\Debug\M01A14.csproj.CoreCompileInputs.cache
+C:\Users\jeanz\source\repos\M01A14\obj\Debug\M01A14.exe
+C:\Users\jeanz\source\repos\M01A14\obj\Debug\M01A14.pdb

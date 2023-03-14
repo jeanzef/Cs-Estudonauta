@@ -1,0 +1,11 @@
+C:\Users\jeanz\source\repos\M01A15B\bin\Debug\M01A15B.exe.config
+C:\Users\jeanz\source\repos\M01A15B\bin\Debug\M01A15B.exe
+C:\Users\jeanz\source\repos\M01A15B\bin\Debug\M01A15B.pdb
+C:\Users\jeanz\source\repos\M01A15B\obj\Debug\M01A15B.csproj.AssemblyReference.cache
+C:\Users\jeanz\source\repos\M01A15B\obj\Debug\M01A15B.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeanz\source\repos\M01A15B\obj\Debug\M01A15B.Form1.resources
+C:\Users\jeanz\source\repos\M01A15B\obj\Debug\M01A15B.Properties.Resources.resources
+C:\Users\jeanz\source\repos\M01A15B\obj\Debug\M01A15B.csproj.GenerateResource.cache
+C:\Users\jeanz\source\repos\M01A15B\obj\Debug\M01A15B.csproj.CoreCompileInputs.cache
+C:\Users\jeanz\source\repos\M01A15B\obj\Debug\M01A15B.exe
+C:\Users\jeanz\source\repos\M01A15B\obj\Debug\M01A15B.pdb

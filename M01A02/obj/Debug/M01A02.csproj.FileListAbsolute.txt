@@ -1,0 +1,8 @@
+C:\Users\jeanz\source\repos\M01A02\bin\Debug\M01A02.exe.config
+C:\Users\jeanz\source\repos\M01A02\bin\Debug\M01A02.exe
+C:\Users\jeanz\source\repos\M01A02\bin\Debug\M01A02.pdb
+C:\Users\jeanz\source\repos\M01A02\obj\Debug\M01A02.csproj.AssemblyReference.cache
+C:\Users\jeanz\source\repos\M01A02\obj\Debug\M01A02.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeanz\source\repos\M01A02\obj\Debug\M01A02.csproj.CoreCompileInputs.cache
+C:\Users\jeanz\source\repos\M01A02\obj\Debug\M01A02.exe
+C:\Users\jeanz\source\repos\M01A02\obj\Debug\M01A02.pdb
