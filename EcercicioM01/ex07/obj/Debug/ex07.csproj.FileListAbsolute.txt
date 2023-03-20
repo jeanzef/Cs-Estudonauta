@@ -1,0 +1,8 @@
+C:\Users\jeanz\OneDrive\Documentos\estudos\Cs-Estudonauta\EcercicioM01\ex07\bin\Debug\ex07.exe.config
+C:\Users\jeanz\OneDrive\Documentos\estudos\Cs-Estudonauta\EcercicioM01\ex07\bin\Debug\ex07.exe
+C:\Users\jeanz\OneDrive\Documentos\estudos\Cs-Estudonauta\EcercicioM01\ex07\bin\Debug\ex07.pdb
+C:\Users\jeanz\OneDrive\Documentos\estudos\Cs-Estudonauta\EcercicioM01\ex07\obj\Debug\ex07.csproj.AssemblyReference.cache
+C:\Users\jeanz\OneDrive\Documentos\estudos\Cs-Estudonauta\EcercicioM01\ex07\obj\Debug\ex07.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeanz\OneDrive\Documentos\estudos\Cs-Estudonauta\EcercicioM01\ex07\obj\Debug\ex07.csproj.CoreCompileInputs.cache
+C:\Users\jeanz\OneDrive\Documentos\estudos\Cs-Estudonauta\EcercicioM01\ex07\obj\Debug\ex07.exe
+C:\Users\jeanz\OneDrive\Documentos\estudos\Cs-Estudonauta\EcercicioM01\ex07\obj\Debug\ex07.pdb
