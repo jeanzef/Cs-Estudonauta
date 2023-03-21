@@ -42,7 +42,6 @@ namespace ex07
             Console.SetCursorPosition(0, 6);
             Console.WriteLine($"Entre {ini} e {fim} sorteei o valor {num}");
 
-
             Console.ReadKey();
         }
     }
